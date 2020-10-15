@@ -1,6 +1,6 @@
 # BookTrack
 Kitap Takip Otomasyonu
-Asp.Net kullanarak hazır admin template ile Visual Studio 2019'da geliştirdiğim ilk Asp.Net web çalışmam.
+TRT'deki yaz stajımda Asp.Net kullanarak hazır admin template ile Visual Studio 2019'da geliştirdiğim ilk Asp.Net web çalışmam.
 içeriği: HTML, CSS, JS, Bootstrap
 
 ![LoginPage](https://user-images.githubusercontent.com/51738775/94022238-8a59ab00-fdbd-11ea-9057-eacdd0ba1d7b.PNG)
