@@ -1,5 +1,5 @@
 # BookTrack
-Kitap Takip Otomasyonu
+# Kitap Takip Otomasyonu
 TRT'deki yaz stajımda Asp.Net kullanarak hazır admin template ile Visual Studio 2019'da geliştirdiğim ilk Asp.Net web çalışmam.
 içeriği: HTML, CSS, JS, Bootstrap
 
